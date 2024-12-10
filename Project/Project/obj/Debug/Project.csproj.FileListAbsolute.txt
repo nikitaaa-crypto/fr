@@ -1,0 +1,9 @@
+E:\Т моделирование\Project\Project\bin\Debug\Project.exe.config
+E:\Т моделирование\Project\Project\bin\Debug\Project.exe
+E:\Т моделирование\Project\Project\bin\Debug\Project.pdb
+E:\Т моделирование\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Т моделирование\Project\Project\obj\Debug\Project.Form1.resources
+E:\Т моделирование\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Т моделирование\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+E:\Т моделирование\Project\Project\obj\Debug\Project.exe
+E:\Т моделирование\Project\Project\obj\Debug\Project.pdb
